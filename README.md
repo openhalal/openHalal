@@ -1,4 +1,4 @@
-### openHalal
+# openHalal
 
 [Bismillah-hir-Rahman-nir-Raheem](https://user-images.githubusercontent.com/81549776/116485078-03673680-a8a8-11eb-9632-4f6a6b4be77a.jpg)
 
