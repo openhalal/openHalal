@@ -1,4 +1,4 @@
-# OpenHalal 
+
 
 **Bismillah-hir-Rahman-nir-Raheem**
 
@@ -14,15 +14,7 @@ While chating with friends, they will prompt you to talk to some strangers.
 
 the Internet is shrinking in what we can do everyday and it feels like everthing is haram.
 
-
-Abu Sa’id reported: The Prophet, peace and blessings be upon him, said, “The honest and trustworthy merchant will be with the prophets, the truthful, and the martyrs.” -- [Source: Sunan al-Tirmidhī 1209]
-
-# Halal Business Guldelines
-1. Product Should be Halal
-2. No Gharar (uncertainty, deception and risk).
-3. No Storage of Basic Necessity for price gain.
-4. No Riba(Interest/Sood).
-
+hence, there should be online halal platform for business, social etc. 
 
 # What is Halal?   
 Halal is an Arabic word that translates to "**permissible**" in English. 
@@ -31,9 +23,19 @@ Halal is an Arabic word that translates to "**permissible**" in English.
 * Internet by itself is Halal.
 
 
-Hence, openHalal a platform which , and follow the Ahkamh of Allah SWT and sunnah of Messenger of Allah, peace and blessings be upon him.
+### Halal Business 
 
-# OpenHalal 
+Abu Sa’id reported: The Prophet, peace and blessings be upon him, said, “The honest and trustworthy merchant will be with the prophets, the truthful, and the martyrs.” -- [Source: Sunan al-Tirmidhī 1209]
+
+**Guldelines**
+
+1. Product Should be Halal
+2. No Gharar (uncertainty, deception and risk).
+3. No Storage of Basic Necessity for price gain.
+4. No Riba(Interest/Sood).
+
+
+# OpenHalal Initiative
 **InshaAllah**
 * will follow the Ahkam of Allah swt and Sunnah of Messenger of Allah, peace and blessings be upon him.
 * is a platform which will deal with everything halal.
