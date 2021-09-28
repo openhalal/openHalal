@@ -1,6 +1,6 @@
 
 
-**Bismillah-hir-Rahman-nir-Raheem**
+### **Bismillah-hir-Rahman-nir-Raheem**
 
 Anas ibn Malik reported: The Messenger of Allah, peace and blessings be upon him, said, “A time of patience will come to people in which adhering to one’s religion is like grasping a hot coal.”  -- [Sunan al-Tirmidhī 2260]
 
