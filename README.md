@@ -20,7 +20,7 @@ Abu Sa’id reported: The Prophet, peace and blessings be upon him, said, “The
 # Halal Business Guldelines
 1. Product Should be Halal
 2. No Gharar (uncertainty, deception and risk).
-3. No Storage of Basic Necessity for pricce gain.
+3. No Storage of Basic Necessity for price gain.
 4. No Riba(Interest/Sood).
 
 
@@ -35,12 +35,11 @@ Hence, openHalal a platform which , and follow the Ahkamh of Allah SWT and sunna
 
 # OpenHalal 
 **InshaAllah**
-*will follow the Ahkam of Allah SWT and sunnah of Messenger of Allah, peace and blessings be upon him.
-*is a platform which will deal with everything halal.
-*is a online world which will mimic the real world.
-*is a business platform, not a charity, but will do charity.
-*is an open source project.
+* will follow the Ahkam of Allah swt and Sunnah of Messenger of Allah, peace and blessings be upon him.
+* is a platform which will deal with everything halal.
+* is a online world which will mimic the real world.
+* is a business platform, not a charity, but will do charity.
+* is an open source project.
 
-*No one can be its owner or buy its share.
-*No one can sell the OpenHalal project (company) to anyone.
-
+* No one can be its owner or buy its share.
+* No one can sell the OpenHalal project (company) to anyone.
