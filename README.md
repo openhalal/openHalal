@@ -43,3 +43,5 @@ Hence, openHalal a platform which , and follow the Ahkamh of Allah SWT and sunna
 
 * No one can be its owner or buy its share.
 * No one can sell the OpenHalal project (company) to anyone.
+
+### OpenHalal Founder - Engr. Mizanul Islam Siddiqui
