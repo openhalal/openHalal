@@ -37,7 +37,7 @@ Abu Sa’id reported: The Prophet, peace and blessings be upon him, said, “The
 
 # OpenHalal Initiative
 **InshaAllah**
-* will follow the Ahkam of Allah swt and Sunnah of Messenger of Allah, peace and blessings be upon him.
+* will follow the Commands of Allah swt and Sunnah of Messenger of Allah, peace and blessings be upon him.
 * is a platform which will deal with everything halal.
 * is a online world which will mimic the real world.
 * is a business platform, not a charity, but will do charity.
