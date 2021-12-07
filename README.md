@@ -41,7 +41,7 @@ Abu Sa’id reported: The Prophet, peace and blessings be upon him, said, “The
 * is a platform which will deal with everything halal.
 * is a online world which will mimic the real world.
 * is a business platform, not a charity, but will do charity.
-
+* is an open source project.
 
 * No one can be its owner or buy its share.
 * No one can sell the OpenHalal project (company) to anyone.
