@@ -14,7 +14,7 @@ While chating with friends, they will prompt you to talk to some strangers.
 
 the Internet is shrinking in what we can do everyday and it feels like everthing is haram.
 
-hence, there should be online halal platform for business, social etc. 
+hence, there should be halal platform for business, social etc. 
 
 # What is Halal?   
 Halal is an Arabic word that translates to "**permissible**" in English. 
@@ -46,4 +46,4 @@ Abu Sa’id reported: The Prophet, peace and blessings be upon him, said, “The
 * No one can be its owner or buy its share.
 * No one can sell the OpenHalal project (company) to anyone.
 
-### OpenHalal Founder - Engr. Mizanul Islam Siddiqui
+
